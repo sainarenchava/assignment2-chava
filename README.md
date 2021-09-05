@@ -19,3 +19,15 @@ Directions of travel from Maryville to Home
    3. Go through security
 6. Exit the airport, take a cab for a ride home
 7. Surprise your family and spend some amazing time with them.
+
+List of items
+* Stuff needed for family picnic
+  * Picnic blanket
+  * Corckscrew or bottle opener
+  * Packing the picnic basket with food 
+* Starting a garden at home
+  * Gloves
+  * Garden fork
+  * Watering can
+* Swim wear
+* Camping stuff
