@@ -5,7 +5,7 @@
 My favourtie place is my home where my **family** is. A home is a place where i have my __heart__ and all that i adore.It Comforts me. There is nothing more important than a good, safe and secure home.
 
 ***
-Directions of travel from Maryville to Home
+# Directions of travel from Maryville to Home
 1. Search for flights and their deals
 2. Book the fligh tickets with a perfect itineary
 3. Take a cab to Kansas City International Airport
@@ -33,3 +33,13 @@ List of items
 * Camping stuff
 
 [AboutMe](AboutMe.md)
+
+***
+# List of Food/Drinks you need to try before you die
+As i am very fond of Indian cusinie over anything else, i have decided to mention four best dishes of my favourite along with the location and the cost.
+| Dish | Location | Cost |
+| --- | --- | ---: |
+| Punugulu | Andhra | $2 |
+| Biryani | Hyderabad | $10 |
+| Royaala Iguru | Raayalaseema | $15 |
+| Kallu | Telengana | $40 |
