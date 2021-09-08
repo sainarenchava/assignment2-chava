@@ -43,3 +43,9 @@ As i am very fond of Indian cusinie over anything else, i have decided to mentio
 | Biryani | Hyderabad | $10 |
 | Royaala Iguru | Raayalaseema | $15 |
 | Kallu | Telengana | $40 |
+
+***
+# Pithy Quotes using Markdown language
+> I have only made this letter longer because I have not had the time to make it shorter. *Blaise Pascal*
+
+> Read a thousand books and your words will flow like river. *Virginia Wolf*
