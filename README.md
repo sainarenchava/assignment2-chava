@@ -49,3 +49,32 @@ As i am very fond of Indian cusinie over anything else, i have decided to mentio
 > I have only made this letter longer because I have not had the time to make it shorter. *Blaise Pascal*
 
 > Read a thousand books and your words will flow like river. *Virginia Wolf*
+
+***
+# Data structures code fencing
+> Binary Indexed Tree also called Fenwick Tree provides a way to represent an array of numbers in an array, allowing prefix sums to be calculated efficiently. For example, an array [2, 3, -1, 0, 6] is given, then the prefix sum of first 3 elements [2, 3, -1] is 2 + 3 + -1 = 4.
+
+Link to the source <https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/tutorial/>
+```
+struct FenwickTree2D {
+    vector<vector<int>> bit;
+    int n, m;
+
+    // init(...) { ... }
+
+    int sum(int x, int y) {
+        int ret = 0;
+        for (int i = x; i >= 0; i = (i & (i + 1)) - 1)
+            for (int j = y; j >= 0; j = (j & (j + 1)) - 1)
+                ret += bit[i][j];
+        return ret;
+    }
+
+    void add(int x, int y, int delta) {
+        for (int i = x; i < n; i = i | (i + 1))
+            for (int j = y; j < m; j = j | (j + 1))
+                bit[i][j] += delta;
+    }
+}
+```
+Link to the source code <https://cp-algorithms.com/data_structures/fenwick.html>
